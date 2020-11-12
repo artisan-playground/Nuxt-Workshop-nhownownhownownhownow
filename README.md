@@ -1,37 +1,41 @@
 # workshop
 
-**8Oct - Initial project Nuxtjs** \
+---
 
-- Nuxt installation.
+### 8Oct - Initial project Nuxtjs \
 
-**15Oct : Learn cycle from nuxtjs** \
+- Nuxt installation. -
+
+### 15Oct : Learn cycle from nuxtjs \
 
 - Know what Nuxt will do.
 - Learn Nuxt lifecycle.
 
-**22Oct : Talk about concept Prop & Emit and Local storage by Vuex** \
+### 22Oct : Talk about concept Prop & Emit and Local storage by Vuex \
 
 - Know how to pass data between page using prop & emit.
 
-**29Oct : Layout Pattern(Page to Component) for nuxtjs(Assign home work)** \
+### 29Oct : Layout Pattern(Page to Component) for nuxtjs(Assign home work) \
 
 - Using Antd for Vue to do Listview, form, etc.
 
-**5Nov : Connect API (RestAPI) by Axios** \
+### 5Nov : Connect API (RestAPI) by Axios \
 
 - Learn how to use axios connect to API and basic Postman.
 
-**12Nov : How to Handle data in nuxtjs** \
+### 12Nov : How to Handle data in nuxtjs \
 
 - not yet
 
-**19Nov : How to Custom CSS and Handle global style** \
+### 19Nov : How to Custom CSS and Handle global style \
 
 - not yet
 
-**26Nov : Start to Deploy** \
+### 26Nov : Start to Deploy \
 
 - not yet
+
+---
 
 ## Build Setup
 
